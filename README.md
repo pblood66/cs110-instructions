@@ -304,5 +304,6 @@ Your computer is now fully set up for CS 110:
 - Terminal basics learned  
 - Virtual environment created  
 - Dependencies installed  
+- Running Python Files
 
 You’re ready to start coding! 🚀
