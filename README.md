@@ -171,8 +171,9 @@ You can also open your system terminal:
 
 # 📦 Creating a Virtual Environment <a name="venv"></a>
 
-A **virtual environment** is a project-specific Python workspace.  
-Every CS 110 project should use its own environment.
+A **virtual environment** is a way that python is able to create isolated “projects” or environments that are able to run different tools and libraries. This lets you manage dependencies and various python extensions for different projects independently. Virtual environments ensure that projects are independent of one another and ensure stable, reproducible environments. 
+
+> **NOTE**: Every CS 110 project should use its own environment.
 
 ### 1. Open the Command Palette
 - **Windows:** `CTRL + SHIFT + P`  
@@ -226,7 +227,7 @@ on the left side of your terminal prompt.
 
 # 📥 Installing Dependencies & Libraries <a name="dependencies"></a>
 
-Dependencies are extra tools that Python projects use.
+A **dependency** is something that your program needs in order to work, but that doesn’t come built in. For example, if your program needs to make charts, download data, or do something else special, you may need to install an extra tool (called a library or package) that provides that ability. Installing dependencies makes sure your program has all the parts it needs to run successfully.
 
 For CS 110, you’ll need:
 
