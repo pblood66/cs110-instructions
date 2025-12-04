@@ -278,7 +278,7 @@ print("Hello World!")
 ```
 
 
-## Running the File
+## ▶️ Running the File
 > **Note**: There are two ways to run the file, choose whichever you like
 
 ### Option 1. 
