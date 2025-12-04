@@ -117,10 +117,10 @@ Choose the installer that matches your OS.
 2. Check these boxes:
    - **Add ‘Open with Code’ action**
    - **Add to PATH**
-
+  
 ![vscode installer](/images/vscode-options.png)
 
-1. Click **Install**.
+4.. Click **Install**.
 
 ---
 
