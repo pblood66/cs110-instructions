@@ -29,7 +29,18 @@ By the end of these instructions, you will have a fully working Python developme
 
 ---
 
-# 🐍 Installing Python
+# Table of Contents
+1. [Installing Python](#python)
+2. [Installing VS Code](#vscode)
+3. [Navigating the Terminal](#third-example)
+4. [Creating a Virtual Environment](#venv)
+5. [Downloading Dependencies](#dependencies)
+6. [Running a Python File](#running)
+
+
+---
+
+# 🐍 Installing Python <a name="python"></a>
 
 ### 1. Download Python  
 Visit the official download page:  
@@ -87,7 +98,7 @@ Just open the installer and walk through the prompts. No extra steps needed.
 
 ---
 
-# 💻 Installing Visual Studio Code (VS Code)
+# 💻 Installing Visual Studio Code (VS Code) <a name="vscode"></a>
 
 ### 1. Download VS Code  
 https://code.visualstudio.com/download
@@ -126,7 +137,7 @@ Just open the installer—VS Code will set itself up automatically.
 
 ---
 
-# 🖥️ Navigating the Terminal
+# 🖥️ Navigating the Terminal <a name="terminal"></a>
 
 You can open a terminal in VS Code:
 
@@ -156,7 +167,7 @@ You can also open your system terminal:
 
 ---
 
-# 📦 Creating a Virtual Environment
+# 📦 Creating a Virtual Environment <a name="venv"></a>
 
 A **virtual environment** is a project-specific Python workspace.  
 Every CS 110 project should use its own environment.
@@ -211,7 +222,7 @@ on the left side of your terminal prompt.
 
 ---
 
-# 📥 Installing Dependencies & Libraries
+# 📥 Installing Dependencies & Libraries <a name="dependencies"></a>
 
 Dependencies are extra tools that Python projects use.
 
@@ -237,7 +248,7 @@ Each installation should look similar to:
 
 ---
 
-# 🏁 Running a Python File
+# 🏁 Running a Python File <a name="running"></a>
 
 ### 1. Open a new window in VS Code
 Select **"Open Folder"** from the start options.
