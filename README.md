@@ -29,6 +29,12 @@ By the end of these instructions, you will have a fully working Python developme
 
 ---
 
+# Materials Needed
+- [ ] Computer 
+  - [ ] Windows 10/11
+  - [ ] MacOS
+- [ ] Access to Internet 
+
 # Table of Contents
 1. [Installing Python](#python)
 2. [Installing VS Code](#vscode)
