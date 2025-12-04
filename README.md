@@ -109,16 +109,18 @@ Choose the installer that matches your OS.
 ---
 
 ### **Windows Installation**
-1. Accept the license agreement 
+1. Accept the license agreement
+
 ![placeholder](/images/vscode-license.png)
 
 2. Accept or change the destination folder  
 3. Check these boxes:
    - **Add ‘Open with Code’ action**
    - **Add to PATH**
+  
 ![vscode installer](/images/vscode-options.png)
 
-4. Click **Install**.
+5. Click **Install**.
 
 ---
 
